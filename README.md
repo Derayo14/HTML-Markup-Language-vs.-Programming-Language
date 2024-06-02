@@ -12,11 +12,11 @@ A Markup Language is a way that computers speak to each other to control how tex
 Read more on HTML history: <https://html.com/#ixzz8bvrLk91g/>
 
 
-### If this isn't still convincing enough to let you know that HTML isn't a Markup Language , let's go through some of the core features of a programming language that HTMl lacks thereby making it a markup language:
+### If this isn't still convincing enough to let you know that HTML isn't a Markup Language , let's go through some of the core features of a programming language that HTML lacks thereby making it a markup language:
 <ol>
-<li>Libraries and Framework: Unlike HTMl that lacks libraries and framework, programming languages like JavaScript,Python and PHP possess framework.</li>
+<li>Libraries and Framework: Unlike HTML that lacks libraries and framework, programming languages like JavaScript,Python and PHP possess framework.</li>
 <li> Paradigms:  As much as it looks like HTML has its own paradigms, it lacks traditional paradigms like object oriented, procedural or functional like programming languages have.</li>
-<li> Control Structures:  Programming languages use control structures like conditional and switch statements (i.e: if-else, for, while e.t.c) for control in programming, HTMl has a markup language, cannot create conditional logic.</li>
+<li> Control Structures:  Programming languages use control structures like conditional and switch statements (i.e: if-else, for, while e.t.c) for control in programming, HTML has a markup language, cannot create conditional logic.</li>
 
 </ol>
 
