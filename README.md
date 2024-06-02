@@ -1,7 +1,5 @@
-# HTML-Markup-Language-vs.-Programming-Language
-An article about HTML
-
 # HTML: Markup Language vs. Programming Language
+An article about HTML
 
 ### This article explores the distinction between HTML and programming languages.
 Let's do a breakdown of what HTML entails.
