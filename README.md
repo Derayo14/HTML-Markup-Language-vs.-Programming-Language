@@ -23,4 +23,4 @@ Read more on HTML history: <https://html.com/#ixzz8bvrLk91g/>
 </ol>
 
 
-## Being a markup language does not limit HTML as whether it is a programming language or not, as HTML it is still the baseline of every web page, therefore the importance cannot be overlooked nor undermined.
+Being a markup language does not limit HTML as whether it is a programming language or not, as HTML it is still the baseline of every web page, therefore the importance cannot be overlooked nor undermined.
